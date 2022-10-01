@@ -22,8 +22,6 @@ public class HandleClient implements Runnable {
 			//dictionary object to retrieve word data for client
 			Dictionary dictionary = new Dictionary();
 			
-			dictionary.seeDictionary();
-			
 			//printWriter to print out to client
 			PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
 			BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
