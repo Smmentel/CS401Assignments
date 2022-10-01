@@ -44,9 +44,4 @@ public class Dictionary {
 	return "Word not found, please try again.";
 	}
 	
-	public void seeDictionary() {
-		for(int i = 0; i < dictionary.size(); i++) {
-			System.out.println(dictionary.get(i).getWord() + ": " + dictionary.get(i).getDefinition());
-			}
-	}
 }
