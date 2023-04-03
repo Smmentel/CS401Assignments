@@ -1,11 +1,11 @@
 # Computer Networking Fall 2022 
-**CS401Assignments** <br />
-Assignment01: TCP Muli-User Socket Programming <br /><br /><br />
-Assignment02: Exploring how symmetric encryption works. You will use Caesar Cipher substitution
+**CS401Assignments** <br /> <br />
+**Assignment01:** TCP Muli-User Socket Programming <br /><br /><br />
+**Assignment02:** Exploring how symmetric encryption works. You will use Caesar Cipher substitution
 technique to encode and decode your data transmitted over a network. Socket programming in Java should be
 used for implementation. <br /><br /><br />
 
-Final Assignment: Design a simple application that meets the following requirements: (60 points)
+**Final Assignment:** Design a simple application that meets the following requirements: (60 points)
 
 Your application should have at least two separate servers programs (server1, server2) and a client program.
 The client should communicate with server1 using TCP and with server2 using UDP or vice versa.
