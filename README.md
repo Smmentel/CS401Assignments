@@ -1,5 +1,4 @@
-# Computer Networking Fall 2022 
-**CS401Assignments** <br /> <br />
+# Computer Networking Assignments Fall 2022 
 **Assignment01:** TCP Muli-User Socket Programming <br /><br /><br />
 **Assignment02:** Exploring how symmetric encryption works. You will use Caesar Cipher substitution
 technique to encode and decode your data transmitted over a network. Socket programming in Java should be
